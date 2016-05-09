@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Knut Ahlers <knut@ahlers.me>
+MAINTAINER Mark McGuire <mark.b.mcg@gmail.com>
 
 RUN useradd -u 1000 mumble \
  && apt-get update \
